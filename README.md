@@ -38,8 +38,11 @@ fortigate-eve-ng-lab/
 │       ├── 1.png
 │       ├── 2.png
 │       └── ... up to 33.png
-└── docs/
-    └── setup_guide.md
+├──  docs/
+|  └── setup_guide.md
+|
+└── Project-file/
+          └──Basic-LAN-TO-WAN-Lab-1.unl
 ```
 
 ---
